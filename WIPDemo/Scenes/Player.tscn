@@ -69,5 +69,4 @@ animations = [ {
 [node name="PlayerSprites" type="AnimatedSprite" parent="."]
 frames = SubResource( 10 )
 animation = "IdleNoLook"
-frame = 1
 playing = true
